@@ -1,0 +1,18 @@
+.flight-card {
+  display: flex;
+  justify-content: center;
+  border: 1px dotted black;
+  margin: 20px 0;
+}
+
+.flight-logo {
+  height: 100px;
+}
+
+.duration {
+  width: 10%;
+}
+
+.price {
+  width: 11%;
+}
